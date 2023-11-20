@@ -11,6 +11,4 @@ phases:
       - npm start
 artifacts:
   files:
-    - app.js
-    - package.json
-    - node_modules/async/*
+    - '**/*'
